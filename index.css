@@ -1,13 +1,22 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title></title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="main.css">
-</head>
-<body>
-<h1>"The freedom of Mankind does not lie in the fact that we can do what we want, but that we do not have to do that which we do not want."</h1>
-    <h3>– <em>Jean-Jacques Rousseau </em></h3>
-</body>
-</html>
+body {
+  background: url('assets/freedom.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+h1 {
+text-align:center;
+margin-top: 120px;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+opacity: 0.6;
+font-weight: 200;
+font-size: 3.0em;
+}
+h3 {
+text-align:center;
+margin-top: 80px;
+letter-spacing: 0.08em;
+text-transform: italic;
+opacity: 0.7;
+font-weight: 600;
+font-size: 1.8em;
+}
